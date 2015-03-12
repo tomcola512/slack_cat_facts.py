@@ -10,6 +10,10 @@ cat facts bot for slack in python
 
 4) run -i slack_cat_facts.py
 
-5) while True:
+5) 
+
+while True:
+
 	annoy()
+	
 	time.sleep(40)
